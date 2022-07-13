@@ -22,10 +22,9 @@ const About = () => {
             readable content.
             </p>
             <p className="a-desc">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-            minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+            MCA student with a focus on tech. To seek a job in the IT industry where
+            I can utilize my skills and technical knowledge for theorganization’s
+            and individual growth..
             </p>
             <div className="a-award">
                 <img src={award} alt="" className="a-award-img"/>
